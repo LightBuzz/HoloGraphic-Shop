@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/HolographicShop_Unity/[Ll]ibrary/
+/HolographicShop_Unity/[Tt]emp/
+/HolographicShop_Unity/[Oo]bj/
+/HolographicShop_Unity/[Bb]uild/
+/HolographicShop_Unity/[Bb]uilds/
+/HolographicShop_Unity/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
