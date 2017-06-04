@@ -509,11 +509,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HolographicShopUnity
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\Vangos\Projects\HolographicShop\HolographicShop_Unity\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: LightBuzz
+  metroCertificateIssuer: LightBuzz
+  metroCertificateNotAfter: 003719977dfcd301
   metroApplicationDescription: HolographicShop_Unity
   wsaImages: {}
   metroTileShortName: 
