@@ -1,6 +1,10 @@
-# Holographic Shop - Unity
+# Holographic Shop
 
-This is the Mixed Reality HoloLens part of the framework.
+The Holographic Shop allows customers to browse a collection of products in Mixed Reality. The customers can view products, interact with them, position them in the 3D space, and even create a virtual Cart. The application consists of a Unity client app and a Microsoft Azure backend.
+
+# Unity - HoloLens
+
+The Unity client application downloads the data from the server, renders the holograms, and allows for interaction.
 
 ## Dependencies
 
@@ -30,3 +34,9 @@ Allows the customer to interact with a Hologram and place it in the 3D space. Th
 * Place a TV on a wall and watch a video.
 * Place a desk on the floor and move nearby.
 * Place a Stereo on a desk and turn on the music.
+
+# Microsoft Azure
+
+The Microsoft Azure backend infrastructure includes the data and the HTTPS web API endpoints.
+
+More information to be added soon.
